@@ -40,7 +40,6 @@ Gem::Specification.new do |gem|
   gem.add_dependency "mini_histogram",  ">= 0.3.0"
   gem.add_dependency "rack-test",       ">= 0"
   gem.add_dependency "base64",          ">= 0"
-  gem.add_dependency "mutex_m",         ">= 0"
   gem.add_dependency "bigdecimal",      ">= 0"
   gem.add_dependency "drb",             ">= 0"
   gem.add_dependency "logger",          ">= 0"
